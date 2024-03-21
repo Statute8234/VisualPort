@@ -2,7 +2,7 @@
 
 This HTML webpage is a portfolio for showcasing various projects and providing links to social media profiles and repositories on GitHub. It features a menu section with buttons for different project categories, and links to social media platforms like Reddit, Twitter, and GitHub. The main content consists of an image container and a content container, providing easy access to relevant projects and social media profiles.
 
-![Alt text](image link)
+![Alt text](https://github.com/Statute8234/VisualPort/blob/main/Screenshot%202024-03-20%20222809.png?raw=true)
 
 ## Table of Contents
 
